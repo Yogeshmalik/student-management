@@ -1,0 +1,7 @@
+const ACTIONS = {
+    ADD_STUDENT: "ADD_STUDENT",
+    VIEW_STUDENTS: "VIEW_STUDENTS",
+    DELETE_STUDENT: "DELETE_STUDENT"
+  }
+
+  export default ACTIONS;
